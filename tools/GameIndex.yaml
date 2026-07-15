@@ -2175,8 +2175,10 @@ SCAJ-20143:
     recommendedBlendingLevel: 3 # Fixes level and map menu brightness.
     preloadFrameData: 1 # Fixes glowing emblems.
 SCAJ-20144:
-  name: "Zhuo Hou La 3"
-  region: "NTSC-C"
+  name: "捉猴啦 3"
+  name-sort: "Zhuo Hou La 3"
+  name-en: "Ape Escape 3"
+  region: "NTSC-C-J"
   roundModes:
     vu0RoundMode: 2 # Fixes light sabre SPS in specific positions.
   gameFixes:
